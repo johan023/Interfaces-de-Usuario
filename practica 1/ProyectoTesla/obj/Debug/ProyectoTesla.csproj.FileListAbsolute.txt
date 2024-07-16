@@ -1,0 +1,46 @@
+C:\Users\elxoa\source\repos\ProyectoTesla\bin\Debug\ProyectoTesla.exe.config
+C:\Users\elxoa\source\repos\ProyectoTesla\bin\Debug\ProyectoTesla.exe
+C:\Users\elxoa\source\repos\ProyectoTesla\bin\Debug\ProyectoTesla.pdb
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla.csproj.AssemblyReference.cache
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\MainWindow.g.cs
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\App.g.cs
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla_MarkupCompile.cache
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla_MarkupCompile.lref
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\MainWindow.baml
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla.g.resources
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla.Properties.Resources.resources
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla.csproj.GenerateResource.cache
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla.csproj.CoreCompileInputs.cache
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla.exe
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\ProyectoTesla.pdb
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window1.g.cs
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window2.g.cs
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window3.g.cs
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window4.g.cs
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window1.baml
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window2.baml
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window3.baml
+C:\Users\elxoa\source\repos\ProyectoTesla\obj\Debug\Window4.baml
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\bin\Debug\ProyectoTesla.exe.config
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\bin\Debug\ProyectoTesla.exe
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\bin\Debug\ProyectoTesla.pdb
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla.csproj.AssemblyReference.cache
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\MainWindow.g.cs
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window1.g.cs
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window2.g.cs
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window3.g.cs
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window4.g.cs
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\App.g.cs
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla_MarkupCompile.cache
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla_MarkupCompile.lref
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\MainWindow.baml
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window1.baml
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window2.baml
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window3.baml
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\Window4.baml
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla.g.resources
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla.Properties.Resources.resources
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla.csproj.GenerateResource.cache
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla.csproj.CoreCompileInputs.cache
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla.exe
+C:\Users\elxoa\OneDrive - UMH\UNIVERSIDAD\Curso 2 ✔\1er cuatrimestre ✔\Interfaces de Usuario (IU) ✔\practicas y trabajos\practica 1\ProyectoTesla\obj\Debug\ProyectoTesla.pdb

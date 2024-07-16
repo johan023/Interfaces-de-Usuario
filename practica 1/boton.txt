@@ -1,0 +1,9 @@
+1- Seleccionamos el elemento que queremos convertir en un boton
+2- Herramientas -> conventir en control
+3- elegir boton y aceptar
+4. en propiedades del elemento ContentPresenter, ir a Común, content 
+5- escribir modelo 2 (20 000 €)
+6-. doble clic fuera
+7- propiedades, relampago, elemento CLICK
+8- poner nombre al evento (AbrirModelo2)
+9- editar codigo cs
